@@ -1,0 +1,9 @@
+transaction_id,customer_id,product_id,amount,payment_mode,date,name,age,gender,city,income,product_name,category,price,stock,total_purchase_value,age_group,income_category,log_amount
+T001,101,P001,499,UPI,2025-10-01,Aarav,24,Male,Mumbai,45000,Earphones,Electronics,499,50,499,Young,Low,6.214608098422191
+T002,103,P003,1299,Credit Card,2025-10-02,Kabir,27,Male,Bangalore,48000,Smart Watch,Wearable,1299,25,1299,Adult,Medium,7.170119543449628
+T003,104,P002,699,Debit Card,2025-10-03,Meera,35,Female,Ahmedabad,60000,Bluetooth Speaker,Audio,699,40,699,Adult,Medium,6.551080335043404
+T004,105,P005,1999,UPI,2025-10-05,Vivaan,40,Male,Pune,75000,Headphones,Audio,1999,30,1999,Senior,High,7.600902459542082
+T005,107,P004,899,Cash,2025-10-07,Aryan,29,Male,Kolkata,50000,Keyboard,Computer,899,60,899,Adult,Medium,6.802394763324311
+T006,108,P006,2599,UPI,2025-10-08,Isha,33,Female,Surat,58000,Power Bank,Mobile Accessories,2599,20,2599,Adult,Medium,7.8632667240095735
+T007,102,P003,1499,Credit Card,2025-10-09,Diya,30,Female,Delhi,55000,Smart Watch,Wearable,1299,25,1499,Adult,Medium,7.313220387090301
+T008,106,P001,499,Cash,2025-10-10,Riya,22,Female,Chennai,42000,Earphones,Electronics,499,50,499,Young,Low,6.214608098422191
